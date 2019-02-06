@@ -1,0 +1,19 @@
+{
+  "name": "probable-octo-goggles",
+  "version": "1.0.0",
+  "description": "Nicholas O'Brien's website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obrien66/probable-octo-goggles.git"
+  },
+  "author": "Nicholas O'Brien <nicholas.obrien@ucc.on.ca> (http://obrien.tech)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/obrien66/probable-octo-goggles/issues"
+  },
+  "homepage": "https://github.com/obrien66/probable-octo-goggles#readme"
+}
