@@ -4,7 +4,7 @@
   "description": "Nicholas O'Brien's website",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/obrien66/probable-octo-goggles/issues"
   },
-  "homepage": "https://github.com/obrien66/probable-octo-goggles#readme"
+  "homepage": "https://github.com/obrien66/probable-octo-goggles#readme",
+  "dependencies": {
+    "markdown": "^0.5.0"
+  }
 }
