@@ -7,7 +7,7 @@ I'm Nicholas O'Brien. Here are some things about me
 	- Jr. 66kg 4+ (2016) CSSRA 1st
 	- Jr. Heavy 4x (2017) CSSRA 6th
 	- Jr. 72kg 8+ (2017) CSSRA 4th
-	- Sr. 72kg 8+ (2018) CSSRA 7th HOCR 26th
+	- Sr. 72kg 8+ (2018) CSSRA 7th HOCR 29th
 	- Sr. 72kg 8+ (2018) CSSRA 1st
 - Sailing (Since forever - present)
 	- Optimist Class (2010 - 2014)
@@ -16,7 +16,7 @@ I'm Nicholas O'Brien. Here are some things about me
 - Theatre tech (2018 - present)
 	- 12 Angry Jurors (2018)
 	- King Henry 4th Part 1
-- Web developement
+- Full stack developement
 	- [worldaffairs.ucc.on.ca](http://worldaffairs.ucc.on.ca)
 	- [donna](https://github.com/worldaffairsconference/donna)
 	- [newsie](https://github.com/obrien66/newsie)
