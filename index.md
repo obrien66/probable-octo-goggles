@@ -28,7 +28,7 @@ I'm Nicholas O'Brien. Here are some things about me
 - Upper Canada College
 
 ## Contact
-- Instagram : [@nick_but_worse](https://instagram.com/nick_but_worse)
+- Instagram : [@nick\_but\_worse](https://instagram.com/nick_but_worse)
 - School email: nicholas.obrien@ucc.on.ca
 - Personal email: nick.dj.obrien@gmail.com
 - Github: [obrien66](https://github.com/obrien66)
